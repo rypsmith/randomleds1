@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-[tutorial](/tutorial)
+[tutorial](randomLEDsTurnOn/tutorial)
 
 ## Use as Extension
 
