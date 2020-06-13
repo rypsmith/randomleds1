@@ -3,7 +3,8 @@
 
 ## Tutorials
 
-[tutorial](/randomleds1/tutorial) [start](https://makecode.microbit.org/#tutorial:github:rypsmith/randomleds1/tutorial)
+*[tutorial](/randomleds1/tutorial) 
+*[start](https://makecode.microbit.org/#tutorial:github:rypsmith/randomleds1/tutorial)
 
 ## Use as Extension
 
@@ -21,13 +22,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/rypsmith/randomleds1** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/rypsmith/randomleds1/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
