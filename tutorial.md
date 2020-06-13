@@ -16,13 +16,13 @@ led.plot(0,0)
 
 ## Step 2 - Turn on a single LED
 
-Adjust either the x or y coordinate in the ``||led:plot||`` block to turn on one LED
+Adjust either the x or y coordinate in the ``||led:plot||`` block to turn on one LED.
 
 ![XY Coordinates on micro:bit](https://rypsmith.github.io/randomleds1/displayxycoords.png)
 
 ## Step 3 - bring in some randomness!
 
-Get a ``||math:random||`` block and insert in twice into the x and y value in the ``||led:plot||`` block
+Get a ``||math:pick random||`` block and insert in twice (two times) into the x and y value in the ``||led:plot||`` block
 
 ```blocks
 basic.forever(function() {
