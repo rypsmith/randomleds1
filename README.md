@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-[tutorial](/randomleds1/tutorial)
+[tutorial](/randomleds1/tutorial) [start](https://makecode.microbit.org/#tutorial:github:rypsmith/randomleds1/tutorial)
 
 ## Use as Extension
 

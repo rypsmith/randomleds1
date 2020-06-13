@@ -18,7 +18,7 @@ led.plot(0,0)
 
 Adjust either the x or y coordinate in the ``||led:plot||`` block to turn on one LED
 
-![XY Coordinates on micro:bit](/randomleds1/displayxycoords.png)
+![XY Coordinates on micro:bit](/displayxycoords.png)
 
 ## Step 3 - bring in some randomness!
 
