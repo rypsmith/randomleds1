@@ -14,11 +14,11 @@ basic.forever(function() {
 led.plot(0,0)
 ```
 
-## Step 2 - Show an image?
+## Step 2 - Turn on a single LED
 
 Adjust either the x or y coordinate in the ``||led:plot||`` block to turn on one LED
 
-![XY Coordinates on micro:bit](/displayxycoords.png)
+![XY Coordinates on micro:bit](https://rypsmith.github.io/randomleds1/displayxycoords.png)
 
 ## Step 3 - bring in some randomness!
 
