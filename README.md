@@ -1,6 +1,10 @@
 
 > Open this page at [https://rypsmith.github.io/randomleds1/](https://rypsmith.github.io/randomleds1/)
 
+## Tutorials
+
+[tutorial](/tutorial)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
