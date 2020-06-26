@@ -1,5 +1,13 @@
 # Random LEDs ON!
 
+## Introduction @unplugged
+
+How can you turn on the LEDs on the micro:bit randomly like this:
+
+![Heart shape in the LEDs](https://raw.githubusercontent.com/rypsmith/randomleds1/master/randomledson.gif)
+
+Follow the steps to start to learn how to use the ``||math:pick random||`` block.
+
 ## Step 1 - Plot random!
 
 Get a ``||led:plot||`` block and place it inside of the forever block.
